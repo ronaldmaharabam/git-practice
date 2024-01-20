@@ -1,4 +1,6 @@
 function differentFeature() {
 	// different approach
 	doSomething();
+	action(doSomething());
+	//comments
 }
