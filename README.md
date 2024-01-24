@@ -184,3 +184,24 @@ git push origin main --force
 ```bash
 git push origin --delete branch_name
 ```
+## Create a Pull Request on GitHub
+- Fork the Repository:
+    - Click "Fork" on the GitHub repository.
+    - Clone and Create Branch:
+- Clone your fork locally.
+    - Create a new branch for your changes.
+    - Make and Commit Changes:
+- Push Changes:
+    - Push your branch to your GitHub fork.
+-   Create Pull Request:
+    - Visit your GitHub fork.
+    - Click "New pull request."
+- Submit Pull Request:
+    - Provide a title and description.
+    - Click "Create pull request."
+- Wait for Review and Merge:
+    -  Await feedback or approval from maintainers.
+
+*Once approved, the PR can be merged.*
+\
+eg: https://github.com/ronaldmaharabam/git-practice/pull/2
